@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+<style type="text/css">
+	body{
+		background-color: #ffdee0;
+		font-family: 黑体;
+		font-size: 15px;
+	}
+	ul{
+		list-style-type: none;
+	}
+	ul li{
+		width: 200px;
+		text-align: center;
+		margin-bottom: 1px;
+		background-color: #c11136;
+		border-left: 12px solid black;
+	}
+	li a{
+		display: block;
+		text-decoration: none;
+		color: white;
+	}
+	li:HOVER {
+		background-color: #a11136;
+		border-left: 12px solid black;
+	}
+	li a:HOVER {
+	color:white;
+	}
+	li a:VISITED {
+	color:red;
+	}
+</style>
+</head>
+<body>
+<ul>
+	<li><a href="XSGL.html">学生管理</a></li>
+	<li><a href="JSGL.html">教师管理</a></li>
+	<li><a href="KSGL.html">考试管理</a></li>
+	<li><a href="KQGL.html">考勤管理</a></li>
+</ul>
+</body>
+</html>
